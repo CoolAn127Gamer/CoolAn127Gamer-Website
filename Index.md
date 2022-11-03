@@ -1,5 +1,5 @@
 # CoolAn127Gamer Web
-##Has games, duh
+## Has games, duh
 ### Just a page made by a ordinary dude
 
 #### **What does it have?**
